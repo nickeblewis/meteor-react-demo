@@ -1,1 +1,5 @@
 This is a demo application to show to how to get started with Meteor using React and React-Router.
+
+USAGE
+
+Open your browser and go to http://localhost:3000/items and view the magic.
